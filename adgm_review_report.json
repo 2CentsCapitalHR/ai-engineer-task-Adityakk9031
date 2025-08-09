@@ -1,0 +1,17 @@
+{
+  "process": null,
+  "documents_uploaded": 1,
+  "required_documents": null,
+  "missing_documents": [],
+  "issues_found": [
+    {
+      "section": "language",
+      "issue": "Ambiguous use of 'may' detected; could be non-binding",
+      "severity": "Low",
+      "suggestion": "Consider replacing 'may' with clearer mandatory language if intended.",
+      "citation": null,
+      "document": "ADGM Standard Employment Contract Template - ER 2024 (Feb 2025).docx"
+    }
+  ],
+  "timestamp": "2025-08-09T20:55:56.173143Z"
+}
