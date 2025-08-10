@@ -45,3 +45,8 @@ RAG depends on the uploaded ADGM reference docs: better/more relevant references
 If RAG/Gemini returns non-JSON or fails, the app falls back to rule-based checks and still returns outputs.
 
 Inline review notes are inserted as visible red inline tags (easily visible in Word). If you want Word comment balloons (native comment objects), that requires additional XML edits; ask and it can be added.
+
+
+
+
+## Run the App
